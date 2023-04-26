@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    <!-- Tienda de clazado-->
+  <category>
+    <pattern>*</pattern>
+    <template>Disculpa pero no tengo repuesta para eso.</template>
+  </category>
+  
+  <category>
+    <pattern>Hola</pattern>
+    <template>Hola, Bienvenido en que puedo ayudarte?.</template>
+  </category>
+  
+  <category>
+      <pattern>En que puedes ayudarme</pattern>
+      <template>Yo te puedo ayudar en todo lo que corresponda en calzado para niños y niñas todo genuinamente original</template>
+  </category>
+  
+  <category>
+      <pattern>Que puedes hacer?</pattern>
+      <template>Lo que yo puedo realizar es brindarte informacion acerca de las caracteristicas en general de toda la tienda como las marcas que posee la tienda en calzado para nins, el precio entre otras cosas.</template>
+  </category>
+  
+  <category>
+      <pattern>Que tallas disponibles tienes?</pattern>
+      <template>Las tallas disponibles que poseo son todas las existentes en el area infantil</template>
+  </category>
+  
+  <category>
+      <pattern>Que cuestas los zapatos para ninos?</pattern>
+      <template>Los zapatos de ninos tienen el mismo precio que los de ninas pero el valor varia segun su talla</template>
+  </category>
+  
+  <category>
+      <pattern>Que cuestas los zapatos para ninas?</pattern>
+      <template>Los zapatos de ninas tienen el mismo precio que los de ninos pero el valor varia segun su talla</template>
+  </category>
+  
+  <category>
+      <pattern>Que precio tienen los zapatos para ninos talla 20</pattern>
+      <template>Poseen un precio variable en dependencia de la marca</template>
+  </category>
+  
+  <category>
+      <pattern>Cuales son las marcas que posee la tienda?</pattern>
+      <template>Las marcas que actualmente posee la tienda son:
+      1-Christian Louboutin
+      2-Jimmy Choo
+      3-Aquazzura
+      4-Gianvito Rossi
+      5-Stuart Weitzman
+      6-Charlotte Olympia
+      7-Roger Vivier
+      8-Alexandre Birman
+      9-Giuseppe Zanotti
+      10-Salvatore Ferragamo
+      11-Nike
+      12-Adidas</template>
+  </category>
+  
+  <category>
+      <pattern>Que precio tienen unos zapatos talla 20 marca Nike</pattern>
+      <template>Estos zapatos poseen un precio accecible de C$500</template>
+  </category>
+  
+  <category>
+      <pattern>Que precio tienen unos zapatos talla 28 marca Roger Vivier</pattern>
+      <template>Estos zapatos poseen un precio accecible de C$6000</template>
+  </category>
+</aiml>
